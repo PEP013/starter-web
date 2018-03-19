@@ -1,1 +1,3 @@
 Gewoon een text bestand om te testen
+
+Extra regel toegevoegd, aanpassing 2
