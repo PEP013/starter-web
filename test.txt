@@ -1,3 +1,5 @@
 Gewoon een text bestand om te testen
 
 Extra regel toegevoegd, aanpassing 2
+
+Nog een 3e regel toegevoegd
